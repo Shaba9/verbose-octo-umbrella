@@ -1,0 +1,17 @@
+* {
+    color: gold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+}
+
+body {
+    background: red;
+}
+
+p {
+    padding: 5vh;
+}
+
+ul{
+    text-align: center;
+    list-style: inside;
+}
